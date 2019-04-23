@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="83mm"
-   height="25mm"
-   viewBox="0 0 83 25"
+   width="176mm"
+   height="20mm"
+   viewBox="0 0 176 20"
    version="1.1"
    id="svg899"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -37,11 +37,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-77.142857"
-     inkscape:cy="560"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="237.38938"
+     inkscape:cy="277.96284"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g16"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -64,34 +64,34 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-272)">
+     transform="translate(0,-277)">
     <g
        mask="url(#a)"
        id="g16"
-       transform="matrix(0.45099433,0,0,0.97895116,1.8898798,275.11525)"
-       style="stroke-width:0.39819559"
+       transform="matrix(0.99648272,0,0,0.95183084,0.55353216,277.52068)"
+       style="stroke-width:0.2716738"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <path
-         style="fill:#2c262d;fill-opacity:1;stroke-width:0.39819559"
+         style="fill:#2c262d;fill-opacity:1;stroke-width:0.2716738"
          inkscape:connector-curvature="0"
          d="M 0,0 H 155 V 20 H 0 Z"
          id="path10" />
       <path
-         style="fill:#961c25;fill-opacity:1;stroke-width:0.39819559"
+         style="fill:#961c25;fill-opacity:1;stroke-width:0.2716738"
          inkscape:connector-curvature="0"
          d="m 155,0 h 21 v 20 h -21 z"
          id="path12" />
     </g>
     <g
-       style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff;stroke-width:0.34895357"
+       style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff;stroke-width:0.23807782"
        font-size="11"
        id="g26"
-       transform="matrix(0.58725755,0,0,0.97895116,-9.215804,275.11525)"
+       transform="matrix(1.2975595,0,0,0.95183084,-23.984741,277.52068)"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <text
-         style="fill:#010101;fill-opacity:0.3;stroke-width:0.34895357"
+         style="fill:#010101;fill-opacity:0.3;stroke-width:0.23807782"
          x="77.5"
          y="15"
          id="text18" />
@@ -99,10 +99,10 @@
          x="62.343571"
          y="17.758837"
          id="text20"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.69342804px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.34895355"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.69342804px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.2380778"
          transform="scale(1.268488,0.78834012)">Deprecated</text>
       <text
-         style="font-size:9.63970852px;fill:#010101;fill-opacity:0.3;stroke-width:0.34895357"
+         style="font-size:9.63970852px;fill:#010101;fill-opacity:0.3;stroke-width:0.23807782"
          x="165.73717"
          y="13.145057"
          id="text22"
@@ -111,7 +111,7 @@
          x="165.73717"
          y="13.670857"
          id="text24"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.16009998px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.34895357"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.16009998px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.23807782"
          transform="scale(0.87633717,1.1411133)">✕</text>
     </g>
   </g>
