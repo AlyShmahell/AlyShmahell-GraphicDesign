@@ -38,7 +38,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="111.69654"
+     inkscape:cx="81.607254"
      inkscape:cy="42.248553"
      inkscape:document-units="mm"
      inkscape:current-layer="g26"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,21 +97,21 @@
          y="15"
          id="text18" />
       <text
-         x="-47.570442"
-         y="52.686954"
+         x="-63.843845"
+         y="39.896423"
          id="text20"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.79285049px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.82063836"
-         transform="scale(0.70675858,1.4149103)">
+         transform="scale(0.5415975,1.8463896)"
+         style="font-size:9.02702332px;stroke-width:0.67344749">
         <tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.75500298px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.90660763"
-           id="tspan825">Deprecated</tspan>
+           style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.9418466px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+           id="tspan837">Deprecated</tspan>
       </text>
       <text
-         x="9.5547695"
-         y="-29.948973"
+         x="10.046767"
+         y="40.907093"
          id="text24"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:24.02222443px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.82063836"
-         transform="scale(0.5681638,-1.7600558)">✕</text>
+         transform="scale(0.5415975,1.8463896)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.94184685px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.67344749">✕</text>
     </g>
   </g>
 </svg>
