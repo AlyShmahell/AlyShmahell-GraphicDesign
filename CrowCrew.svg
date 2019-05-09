@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="CrowCrew.svg"
-   inkscape:export-filename="D:\MyRepos\OnGithub\AlyShmahell-GraphicDesign\CrowCrew.png"
+   inkscape:export-filename="C:\Users\aly\crowcrew.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
   <defs
@@ -26,10 +26,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="-139.27831"
+     inkscape:cx="-496.87231"
      inkscape:cy="566.30495"
      inkscape:document-units="mm"
      inkscape:current-layer="g826"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
